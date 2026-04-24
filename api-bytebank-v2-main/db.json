@@ -1,0 +1,361 @@
+{
+  "users": [
+    {
+      "id": "40a41438-84a6-4b4d-ae1d-7f1713d0a9fe",
+      "nome": "Donnie Volkman IV",
+      "email": "neilton@alura.com",
+      "senha": "py5s9MTRn1JW5KD",
+      "transacoes": [
+        {
+          "id": "788f434b-11ee-451d-b968-02d203bfc81a",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "16/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "745fed04-dd02-4e45-821e-166f524d1fb2",
+          "tipoTransacao": "Depósito",
+          "valor": "500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "78c5d8c3-6f46-41d1-9152-7c2474bcd473",
+          "tipoTransacao": "Transferência",
+          "valor": "360",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "70eeaa13-cef8-4ad6-aa00-7dce77567748",
+          "tipoTransacao": "Depósito",
+          "valor": "200",
+          "data": "01/03/2023",
+          "mes": "Março"
+        },
+        {
+          "id": "9175018f-9184-4ae3-a6c1-ac78dc8c014c",
+          "tipoTransacao": "Transferência",
+          "valor": "1",
+          "data": "20/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "f72e2e0f-004e-4467-88b0-a771b00dd1d9",
+          "tipoTransacao": "Transferência",
+          "valor": "2",
+          "data": "20/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "91c0f711-b915-4768-9d05-a63c45c55849",
+          "tipoTransacao": "Depósito",
+          "valor": "12",
+          "data": "20/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "6b27617a-7c10-4256-8d13-e1bd0b0e380e",
+          "tipoTransacao": "Transferência",
+          "valor": "2",
+          "data": "20/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "080d2ddc-670d-46ce-bea0-02db62179293",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "7e17c981-606d-4518-b5f8-29b56a16ed91",
+          "tipoTransacao": "Transferência",
+          "valor": "85",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "3776785d-27a0-4f68-9c2d-feaa42701172",
+          "tipoTransacao": "Transferência",
+          "valor": "85",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "4606a886-923b-4a70-8b43-5e3526898f6b",
+          "tipoTransacao": "Transferência",
+          "valor": "85",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "19f8d3b4-ff1a-4ed0-9d6a-2932c71db495",
+          "tipoTransacao": "Transferência",
+          "valor": "85",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "f57767c4-73cf-4ae1-9058-c10082f7bd46",
+          "tipoTransacao": "Depósito",
+          "valor": "2",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "6f9b11ed-9613-4ba1-88d3-c786160b5ac8",
+          "tipoTransacao": "Transferência",
+          "valor": "85",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "2f019759-38a3-465d-867b-b67fbd81149e",
+          "tipoTransacao": "Transferência",
+          "valor": "85",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "9791ace5-9706-4910-9778-e47e21c96d1d",
+          "tipoTransacao": "Transferência",
+          "valor": "85",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "871781bf-ecdc-4922-b9d3-ea81f09ff90b",
+          "tipoTransacao": "Transferência",
+          "valor": "85",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "eb20b213-0e7b-4ecf-beb0-4d291bbacb1e",
+          "tipoTransacao": "Transferência",
+          "valor": "85",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "b9b6d91a-494b-4d96-b7bc-1e1c1fc417e2",
+          "tipoTransacao": "Transferência",
+          "valor": "85",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        }
+      ],
+      "saldo": 915
+    },
+    {
+      "id": "c691fd15-dcd5-4f24-89da-cdfa3cef9d67",
+      "nome": "Vinicius Neves",
+      "email": "vinny@alura.com",
+      "senha": "789456",
+      "transacoes": [
+        {
+          "id": "b0411964-c8d4-4742-ad6d-15bb35b71b97",
+          "tipoTransacao": "Depósito",
+          "valor": "5000",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "f065a917-d283-4075-bbc3-4e1b3d8d1f3a",
+          "tipoTransacao": "Depósito",
+          "valor": "1500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        }
+      ],
+      "saldo": 3500
+    },
+    {
+      "id": "5081c049-cff7-422a-8abd-8a653a89ac8e",
+      "nome": "João Melo",
+      "email": "joaomelo@gmail.com",
+      "senha": "joao890",
+      "transacoes": [
+        {
+          "id": "1db9f805-e482-402d-9cd1-6b878c90e02e",
+          "tipoTransacao": "Depósito",
+          "valor": "90",
+          "data": "20/04/2026",
+          "mes": "Abril"
+        }
+      ],
+      "saldo": 90
+    },
+    {
+      "id": "0701591d-77d2-4d6a-8276-5edb943fcdc8",
+      "nome": "João Melo",
+      "email": "joaomelo@gmail.com",
+      "senha": "joao890",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "1ec1f3ad-88f4-4b42-b1f7-82e7e8b73d4e",
+      "nome": "João Melo2",
+      "email": "joaomelo2@gmail.com",
+      "senha": "joao890",
+      "transacoes": [
+        {
+          "id": "cff6c680-5890-4a35-b8e9-6ce091d56dad",
+          "tipoTransacao": "Transferência",
+          "valor": "3",
+          "data": "20/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "2e05292e-a2bc-42d6-a1a4-02d9b9c601ca",
+          "tipoTransacao": "Depósito",
+          "valor": "34",
+          "data": "20/04/2026",
+          "mes": "Abril"
+        }
+      ],
+      "saldo": 31
+    },
+    {
+      "id": "3445debe-d6b1-4241-b710-d5383fb2b85d",
+      "nome": "João Melo2",
+      "email": "joaomelo2@gmail.com",
+      "senha": "joao890",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "45a41293-d05e-4a50-8fa0-6d4c3bc03a28",
+      "nome": "João Melo10",
+      "email": "joaomelo10@gmail.com",
+      "senha": "joao890",
+      "transacoes": [
+        {
+          "id": "d87244a4-2bfd-4c56-859b-885c4c096140",
+          "tipoTransacao": "Depósito",
+          "valor": "",
+          "data": "20/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "299fc20b-d063-4481-acb6-0b2ada4d5ef0",
+          "tipoTransacao": "Transferência",
+          "valor": "43",
+          "data": "20/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "f131098f-b3b0-4079-98b9-ee81ecc5b5fe",
+          "tipoTransacao": "Transferência",
+          "valor": "85",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "730ede71-a149-4bca-b9d9-566ed43752f3",
+          "tipoTransacao": "Transferência",
+          "valor": "85",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "d3d9a7e6-7b2e-4c66-afe2-8d20cf64f3c5",
+          "tipoTransacao": "Transferência",
+          "valor": "85",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "ca19bbc7-23e1-4e13-8dee-2f397b75608a",
+          "tipoTransacao": "Transferência",
+          "valor": "85",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        },
+        {
+          "id": "5b972d99-e69c-4d89-983a-120e56f06d7b",
+          "tipoTransacao": "Transferência",
+          "valor": "85",
+          "data": "23/04/2026",
+          "mes": "Abril"
+        }
+      ],
+      "saldo": 915
+    },
+    {
+      "id": "e6b81218-4bfa-4b90-9b4d-b93afc83759b",
+      "nome": "João Melo11",
+      "email": "joaomelo11@gmail.com",
+      "senha": "joao890",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "fa8f78b9-aaea-4af3-8d64-b553b3751455",
+      "nome": "João Melo11",
+      "email": "joaomelo11@gmail.com",
+      "senha": "joao890",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "6a6c2b45-db7c-48db-a154-4a49bbe62ccb",
+      "nome": "João Melo13",
+      "email": "joaomelo13@gmail.com",
+      "senha": "joao890",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "4b93435d-73e5-45fb-8810-4efb499fbfe6",
+      "nome": "João Melo13",
+      "email": "joaomelo13@gmail.com",
+      "senha": "joao890",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "36418175-0439-4041-a0d0-8f2b366f2cdc",
+      "nome": "João Melo15",
+      "email": "joaomelo15@gmail.com",
+      "senha": "joao890",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "e9c7067a-8e19-454c-9a5c-bb65a6ce6e6a",
+      "nome": "João Melo15",
+      "email": "joaomelo1@gmail.com",
+      "senha": "joao890",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "2e4e4994-b339-4e07-9b44-c988b0e0ee6a",
+      "nome": "João Melo20",
+      "email": "joaomelo20@gmail.com",
+      "senha": "joao890",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "0c0a9890-e3b1-46d8-b84b-432140f2273d",
+      "nome": "João Melo20",
+      "email": "joaomelo20@gmail.com",
+      "senha": "joao890",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "2691b693-6068-40fd-8afd-97926735d439",
+      "nome": "Derrick Kessler",
+      "email": "vinny@alura.com",
+      "senha": "GQTo3z_f22c6uLX",
+      "transacoes": [],
+      "saldo": 0
+    }
+  ]
+}
