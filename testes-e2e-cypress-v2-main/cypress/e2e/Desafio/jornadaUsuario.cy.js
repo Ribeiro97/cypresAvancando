@@ -3,10 +3,15 @@ describe('Jornadas de usuário', () => {
     // interceptando as API'S
     cy.intercept('PUT', '**/users/**/saldo').as('putSaldo');
     cy.intercept('POST', '**/users/**/transations').as('postTransations');
+    cy.intercept('POST', '**/users/login').as('postLogin');
   });
   
   
   it('Deve permitir que a pessoa usuária acesse a aplicação, realize uma transação e faça um logout', () => {
+    const informacoes = {
+      tipoMovimentacao: "Transferência",
+      valorTransacao: 85
+    }
     
     // Acessando a página inicial do site
     cy.visit('/');
@@ -18,15 +23,20 @@ describe('Jornadas de usuário', () => {
        
       // Login do usuario
       cy.login(user.email, user.senha);
+
+      cy.wait('@postLogin').then((intercept) => {
+        // validando status
+        expect(intercept.response.statusCode).to.eq(200);
+      });
       
       // Verificando se a pessoa usuária foi redirecionada para a página home
       cy.location('pathname').should('eq', '/home');
     });
 
     // Seleciona Transferencia no select de opções
-    cy.getByData('select-opcoes').select('Transferência');
+    cy.getByData('select-opcoes').select(informacoes.tipoMovimentacao);
     // Informando o valor da transação
-    cy.getByData('form-input').type('85');
+    cy.getByData('form-input').type(informacoes.valorTransacao);
     // Clicando no botão de realizar transação
     cy.getByData('realiza-transacao').click();
     
